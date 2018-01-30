@@ -1,0 +1,8 @@
+com/redhat/sample/webservice/client/HelloWorldServiceClient.class
+com/redhat/sample/webservice/client/ObjectFactory.class
+com/redhat/sample/webservice/client/package-info.class
+com/redhat/sample/webservice/client/SayHello.class
+com/redhat/sample/webservice/client/HelloWorldService_Service.class
+com/redhat/sample/webservice/client/Main.class
+com/redhat/sample/webservice/client/HelloWorldService.class
+com/redhat/sample/webservice/client/SayHelloResponse.class
